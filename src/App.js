@@ -9,7 +9,7 @@ function App() {
       <p>The World between your Hand</p>
       <img
         alt="Nudge"
-        scr="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348322381l/3450744.jpg"
+        src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348322381l/3450744.jpg"
       />
       <div> {<Home />}</div>
     </div>
